@@ -161,3 +161,9 @@ cython_debug/
 
 # ADD
 *.lists
+*test*
+*Test*
+*tests*
+*Tests*
+*TEST*
+*TESTS*
